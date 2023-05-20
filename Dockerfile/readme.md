@@ -1,3 +1,7 @@
+# Dockerfile
+
+Berikut adalah instruksi-instruksi yang bisa ditambahkan pada `Dockerfile`.
+
 ## FROM INSTRUCTION
 Digunakan untuk memanggil image lain.
 
